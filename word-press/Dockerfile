@@ -1,6 +1,6 @@
 # Create a wordpress service with wordpress
 # Originated from GitHub
-# Created by Chenle 
+# Created by Chenle 2018.09.14
 # Last modified by Chenle
 
 FROM wordpress:latest
